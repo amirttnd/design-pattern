@@ -1,4 +1,4 @@
-package com.ttn.designpatterns.exercise.exercise1;
+git     package com.ttn.designpatterns.exercise.exercise1;
 
 import java.io.ObjectStreamException;
 import java.io.Serializable;
